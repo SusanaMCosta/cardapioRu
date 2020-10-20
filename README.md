@@ -7,7 +7,7 @@
 
 ## Informações
 
-O aplicativo trás uma solução simples de um cardápio virtual para o Restuarnate Universitário da Universidade Federal do Ceará onde o suário pode visualizar as refeições clicando no dia da semana desejado.
+O aplicativo trás uma solução simples de um cardápio virtual para o Restaurante Universitário da Universidade Federal do Ceará, onde o usuário pode visualizar as refeições clicando no dia da semana desejado.
 
 ## Ferramentas
 
