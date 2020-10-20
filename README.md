@@ -3,11 +3,11 @@
 
 ## Tela
 
-![Calculadora.gif](https://media.giphy.com/media/eNkgrXVRXBeI58xqsj/giphy.gif)
+![cardapio.png](https://github.com/SusanaMCosta/cardapioRu/blob/master/card%C3%A1pio.png)
 
 ## Informações
 
-O cardápio...
+O aplicativo trás uma solução simples de um cardápio virtual para o Restuarnate Universitário da Universidade Federal do Ceará onde o suário pode visualizar as refeições clicando no dia da semana desejado.
 
 ## Ferramentas
 
